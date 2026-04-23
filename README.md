@@ -26,6 +26,6 @@
 
 ## 📊 Estadísticas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=empanadas905-source&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=constanzaguajardo20-code&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=empanadas905-source&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=constanzaguajardo20-code&layout=compact&theme=dark)
