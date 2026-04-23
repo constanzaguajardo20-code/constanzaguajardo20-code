@@ -5,7 +5,6 @@
 ---
 
 ## 🧠 Sobre mí
-- 🔭 **Actualmente:** Explorando los fundamentos de la programación.
 - 🌱 **Aprendiendo:** Python, Desarrollo Web (HTML/CSS) y lógica de programación.
 - 🎯 **Objetivo:** Convertirme en una desarrolladora profesional y crear soluciones tecnológicas con impacto real.
 
